@@ -1,5 +1,3 @@
-# TechnicalAssignment1-RaffaEkaPrayoga
-
 # IoT Sensor Data Logger with ESP32 and Flask
 
 ## Overview
